@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "A Codex skill to pressure-test product ideas inside an existing company.",
   "license": "MIT",
-  "author": "Francesco Mistero",
+  "author": "Srimukh Sripada",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Kappaemme-git/codex-product-pressure-test-skill.git"
