@@ -142,7 +142,7 @@ npm publish --access public
 Clone the repository:
 
 ```bash
-git clone https://github.com/Kappaemme-git/codex-product-pressure-test-skill.git
+git clone https://github.com/postmalloc/codex-product-pressure-test-skill.git
 ```
 
 Copy the skill into your Codex skills directory:

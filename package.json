@@ -6,11 +6,11 @@
   "author": "Srimukh Sripada",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Kappaemme-git/codex-product-pressure-test-skill.git"
+    "url": "git+https://github.com/postmalloc/codex-product-pressure-test-skill.git"
   },
-  "homepage": "https://github.com/Kappaemme-git/codex-product-pressure-test-skill#readme",
+  "homepage": "https://github.com/postmalloc/codex-product-pressure-test-skill#readme",
   "bugs": {
-    "url": "https://github.com/Kappaemme-git/codex-product-pressure-test-skill/issues"
+    "url": "https://github.com/postmalloc/codex-product-pressure-test-skill/issues"
   },
   "bin": {
     "codex-product-pressure-test-skill": "scripts/install.js"
