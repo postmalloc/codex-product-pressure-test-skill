@@ -1,0 +1,4 @@
+interface:
+  display_name: "Product Pressure Test"
+  short_description: "Pressure-test product ideas inside a company"
+  default_prompt: "Use $product-pressure-test to pressure-test my product idea for our company."

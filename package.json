@@ -1,0 +1,39 @@
+{
+  "name": "codex-product-pressure-test-skill",
+  "version": "0.1.0",
+  "description": "A Codex skill to pressure-test product ideas inside an existing company.",
+  "license": "MIT",
+  "author": "Francesco Mistero",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kappaemme-git/codex-product-pressure-test-skill.git"
+  },
+  "homepage": "https://github.com/Kappaemme-git/codex-product-pressure-test-skill#readme",
+  "bugs": {
+    "url": "https://github.com/Kappaemme-git/codex-product-pressure-test-skill/issues"
+  },
+  "bin": {
+    "codex-product-pressure-test-skill": "scripts/install.js"
+  },
+  "files": [
+    "product-pressure-test",
+    "scripts/install.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "codex",
+    "skill",
+    "product",
+    "product-management",
+    "strategy",
+    "company",
+    "mvp",
+    "pilot",
+    "validation",
+    "discovery"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}
